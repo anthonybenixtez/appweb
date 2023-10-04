@@ -110,6 +110,5 @@
                 @endforeach
             </tbody>
         </table>
-        <a href="{{ route('home') }}" class="btn btn-primary">Volver a Home</a>
     </div>
 @endsection
