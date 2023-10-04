@@ -5,7 +5,7 @@
             <!-- Formulario para agregar nuevos alumnos en una caja -->
             <div class="card mt-3">
                 <div class="card-body">
-                    <h2>Agregar Alumno mediante INSERT</h2>
+                    <h2>Agregar Alumno mediante Insert</h2>
                     <div class="container my-form">
                         <!-- Formulario para agregar nuevos profesores -->
                         <form method="POST" action="/alumnos">
